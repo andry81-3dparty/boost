@@ -41,9 +41,6 @@ NOTE:
 3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
-  * https://sf.net/p/tacklelib/3dparty--boost/HEAD/tree/branches
-    https://svn.code.sf.net/p/tacklelib/3dparty--boost/branches
-First mirror:
   * https://github.com/andry81/tacklelib--3dparty--boost/branches
     https://github.com/andry81/tacklelib--3dparty--boost.git
 

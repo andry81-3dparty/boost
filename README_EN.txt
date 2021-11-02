@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.04.12
+* 2021.11.02
 * tacklelib--3dparty--boost
 
 1. DESCRIPTION
@@ -44,11 +44,8 @@ Primary:
   * https://sf.net/p/tacklelib/3dparty--boost/HEAD/tree/branches
     https://svn.code.sf.net/p/tacklelib/3dparty--boost/branches
 First mirror:
-  * https://github.com/andry81/tacklelib--3dparty--boost/tree/branches
-    https://github.com/andry81/tacklelib--3dparty--boostgit
-Second mirror:
-  * https://bitbucket.org/andry81/tacklelib-3dparty-boost/src/branches
-    https://bitbucket.org/andry81/tacklelib-3dparty-boost.git
+  * https://github.com/andry81/tacklelib--3dparty--boost/branches
+    https://github.com/andry81/tacklelib--3dparty--boost.git
 
 -------------------------------------------------------------------------------
 4. INSTALLATION

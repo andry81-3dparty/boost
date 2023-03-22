@@ -1,0 +1,14 @@
+2023.03.22:
+* changed: .externals: externals update
+* changed: build-debug.sh, build-release.sh, changelog.txt, README_EN.txt: moved from child branch
+
+2023.03.22:
+* new: branch with the library repository changes at release 1.81.0 commit #da041154c6bac1a4aa98254a7d6819059e8ac0b0 (2022.12.08) from https://github.com/boostorg/boost/commits/boost-1.81.0
+
+2021.04.12:
+* changed: README_EN.txt: repository links update
+
+2020.04.12:
+* new: branch with the library repository changes at release 1.72.0 commit #789155d431930ebef4766550ed7bd09f62eac714 (2019.12.10) from https://github.com/boostorg/boost/commits/master
+* new: changelog
+* new: initial sources fork
